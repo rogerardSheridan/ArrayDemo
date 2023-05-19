@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class ArraysDemo {
 
     public static void main(String[] args) {
-        //Comment added
         System.out.println("Enter a word");
         Scanner input = new Scanner(System.in);
         
